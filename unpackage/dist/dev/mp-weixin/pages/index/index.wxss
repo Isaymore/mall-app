@@ -1,0 +1,13 @@
+.scroll-content.data-v-57280228 {
+  height: 80rpx;
+  white-space: nowrap;
+}
+.scroll-content .scroll-item.data-v-57280228 {
+  display: inline-block;
+  margin: 10rpx;
+  padding-bottom: 4rpx;
+}
+.scroll-content .f-active-color.data-v-57280228 {
+  border-bottom: 4rpx solid #49BDFB;
+}
+

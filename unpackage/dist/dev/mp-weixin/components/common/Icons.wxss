@@ -1,0 +1,22 @@
+.icons.data-v-d3aaf4de {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 30rpx;
+}
+.icons .icons-item.data-v-d3aaf4de {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  padding-bottom: 10rpx;
+}
+.icons .icons-item .icons-img.data-v-d3aaf4de {
+  width: 100rpx;
+  height: 100rpx;
+}
+.icons .icons-item .icons-name.data-v-d3aaf4de {
+  color: #636263;
+}
+

@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "梦幻商城",
+  "navigationBarBackgroundColor": "#fff",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-swiper": "/components/index/IndexSwiper",
+    "recommend": "/components/index/Recommend",
+    "card": "/components/common/Card",
+    "commodity-list": "/components/common/CommodityList",
+    "banner": "/components/common/Banner",
+    "icons": "/components/common/Icons",
+    "hot": "/components/index/Hot",
+    "recommend-shop": "/components/index/RecommendShop"
+  }
+}

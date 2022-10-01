@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner": "/components/common/Banner",
+    "commodity": "/components/common/Commodity"
+  }
+}
